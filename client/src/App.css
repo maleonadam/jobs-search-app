@@ -1,0 +1,19 @@
+body {
+  margin: 20px 40px;
+}
+
+.job:hover {
+  cursor: pointer;
+  color: darkgrey;
+}
+
+.logo {
+  height: 30px;
+  float: right;
+}
+
+/* @media (max-width: 500px) {
+  .card {
+    width: 18rem;
+  }
+} */
